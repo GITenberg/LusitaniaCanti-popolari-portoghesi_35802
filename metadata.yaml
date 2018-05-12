@@ -1,0 +1,27 @@
+_repo: LusitaniaCanti-popolari-portoghesi_35802
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Toci, Ettore
+    gutenberg_agent_id: '37923'
+    url: http://www.gutenberg.org/2009/agents/37923
+description: ''
+gutenberg_bookshelf: IT Folklore
+gutenberg_issued: '2011-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35802'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folk songs, Portuguese -- Texts'
+- !lcsh 'Ballads, Portuguese -- Texts'
+- !lcc 'PQ'
+- !lcsh 'Portuguese poetry -- Translations into Italian'
+title: 'Lusitania: Canti popolari portoghesi'
+url: http://www.gutenberg.org/ebooks/35802
