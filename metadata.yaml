@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '37923'
     url: http://www.gutenberg.org/2009/agents/37923
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35802#LusitaniaCanti-popolari-portoghesi
 gutenberg_bookshelf: IT Folklore
 gutenberg_issued: '2011-04-11'
 gutenberg_type: Text
